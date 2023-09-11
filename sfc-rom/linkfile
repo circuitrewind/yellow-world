@@ -1,0 +1,8 @@
+[objects]
+src/yellow_world.obj
+data.obj
+hdr.obj
+/code/pvsneslib/pvsneslib/lib/crt0_snes.obj
+/code/pvsneslib/pvsneslib/lib/libc.obj
+/code/pvsneslib/pvsneslib/lib/libm.obj
+/code/pvsneslib/pvsneslib/lib/libtcc.obj
